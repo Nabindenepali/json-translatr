@@ -1,0 +1,12 @@
+{
+  "name": "json-translatr",
+  "version": "1.0.0",
+  "description": "Translate your Json files using Google translate Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nabin Paudyal <nabindenepali@outlook.com>",
+  "license": "ISC"
+}
